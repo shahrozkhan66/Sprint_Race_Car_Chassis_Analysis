@@ -1,7 +1,7 @@
  # Sprint_Race_Car_Chassis_Analysis
  A parametric model of the sprint race car's chassis constructed in SOLIDWORKS. 
  The model is defined with a total of 20 design parameters and static torsional analysis are performed. See the figures provided. 
- ## For analysis perform the following steps: 
+ ## Perform the following steps for torsional analysis: 
  1. Open STLD file and select any design from the Design Tree
  2. Go to Simulation -> Study Advisor and create New Study
  3. Select Static Type Analysis
