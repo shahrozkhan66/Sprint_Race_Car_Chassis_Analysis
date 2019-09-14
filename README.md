@@ -1,3 +1,2 @@
-# Sprint_Race_Car_Chassis_Analysis
-The file contains the parametric model of the sprint race car's chassie, which is constructed in the SOLIDWORKS. 
-There are total ?? different design parameters. 
+# A parametric model of the sprint race car's chassis constructed in SOLIDWORKS. 
+The model is defined with totoal 20 design parameters and static torsional analysis are performed. See the figures provided. 
